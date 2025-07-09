@@ -69,6 +69,12 @@ flutter:
   assets:
     - assets/images/
     - assets/images/scanner.svg
+    - assets/images/main_1.jpeg
+    - assets/images/main_2.jpeg
+    - assets/images/main_3.jpeg
+    - assets/images/main_4.jpeg
+    - assets/images/main_5.jpeg
+    - assets/images/main_6.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

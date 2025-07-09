@@ -2,6 +2,7 @@
 
 Cek Resiku is a simple and modular Flutter application built to track shipment status using the [BinderByte API](https://binderbyte.com/). It's designed with a clean architecture and customizable structure, ideal for learning or commercial shipping tools.
 
+![Preview 1](assets/images/main_1.jpeg)
 ---
 
 ## ✨ Features
@@ -116,3 +117,11 @@ Built with ❤️ by [Andriirv](https://github.com/Irvansbase)
 - 🌐 [Portfolio](https://andriirvansyah.vercel.app/)
 
 If you find this project helpful, please ⭐ the repo and share it!
+
+## 📸 Preview
+![Preview 2](assets/images/main_2.jpeg)
+![Preview 3](assets/images/main_3.jpeg)
+![Preview 4](assets/images/main_4.jpeg)
+![Preview 5](assets/images/main_5.jpeg)
+![Preview 6](assets/images/main_6.jpeg)
+![Preview 7](assets/images/main_7.jpeg)
