@@ -51,9 +51,7 @@ lib/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/cek-resiku.git
-cd cek-resiku
-
+git clone https://github.com/Irvansbase/cek-resiku-tracking-app.git
 
 2. Install dependencies
 
