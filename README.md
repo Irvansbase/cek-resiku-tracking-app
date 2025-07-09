@@ -124,4 +124,3 @@ If you find this project helpful, please ⭐ the repo and share it!
 ![Preview 4](assets/images/main_4.jpeg)
 ![Preview 5](assets/images/main_5.jpeg)
 ![Preview 6](assets/images/main_6.jpeg)
-![Preview 7](assets/images/main_7.jpeg)
