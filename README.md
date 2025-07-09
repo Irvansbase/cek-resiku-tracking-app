@@ -1,6 +1,6 @@
-# 📦 Cek Resiku - Flutter Resi Tracker App
+# 📦 CekPaket - Cek Resi Pengiriman
 
-Cek Resiku is a simple and modular Flutter application built to track shipment status using the [BinderByte API](https://binderbyte.com/). It's designed with a clean architecture and customizable structure, ideal for learning or commercial shipping tools.
+CekPaket - Cek Resi Pengiriman is a simple and modular Flutter application built to track shipment status using the [BinderByte API](https://binderbyte.com/). It's designed with a clean architecture and customizable structure, ideal for learning or commercial shipping tools.
 
 ![Preview 1](assets/images/main_1.jpeg)
 ---
