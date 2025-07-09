@@ -52,9 +52,11 @@ lib/
 
 git clone https://github.com/Irvansbase/cek-resiku-tracking-app.git
 
+
 2. Install dependencies
 
 flutter pub get
+
 
 3. Setup BinderByte API Key
 
@@ -111,6 +113,6 @@ Built with ❤️ by [Andriirv](https://github.com/Irvansbase)
 
 - 📩 Email: irvans2731@gmail.com  
 - 💬 WhatsApp: +62 821 2304 8478  
-- 🌐 [Portfolio](https://www.andriirvansyah.vercel.app)
+- 🌐 [Portfolio](https://andriirvansyah.vercel.app/)
 
 If you find this project helpful, please ⭐ the repo and share it!
