@@ -50,12 +50,10 @@ lib/
 
 1. **Clone the repository**
 
-```bash
 git clone https://github.com/Irvansbase/cek-resiku-tracking-app.git
 
 2. Install dependencies
 
-```bash
 flutter pub get
 
 3. Setup BinderByte API Key
@@ -69,7 +67,6 @@ const String binderbyteApiKey = "YOUR_API_KEY_HERE";
 
 4. Run the app
  
-```bash
 flutter run
 
 🧪 Sample Courier Codes
