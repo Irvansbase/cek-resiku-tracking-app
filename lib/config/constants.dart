@@ -53,6 +53,6 @@ class AppConstants {
   };
 
   static const String apiKey =
-      '023c04982569fa341dc70a6b45b0609a6dea934b62c91fdca2e2615ee6c7581b';
-  static const String apiUrl = 'https://api.binderbyte.com/v1/track';
+      '';
+  static const String apiUrl = '';
 }

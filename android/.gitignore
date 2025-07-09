@@ -1,14 +1,45 @@
-gradle-wrapper.jar
-/.gradle
-/captures/
-/gradlew
-/gradlew.bat
-/local.properties
-GeneratedPluginRegistrant.java
+# === 🔧 Gradle & Android Tooling ===
+.gradle/
 .cxx/
+captures/
+local.properties
+gradlew
+gradlew.bat
+android/.gradle/
 
-# Remember to never publicly share your keystore.
-# See https://flutter.dev/to/reference-keystore
+# === 🔐 Signing Keys ===
 key.properties
-**/*.keystore
 **/*.jks
+**/*.keystore
+
+# === ⚙️ Flutter & Dart ===
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+GeneratedPluginRegistrant.java
+
+# === 🛠️ iOS/macOS/Windows/Linux ===
+ios/Pods/
+macos/Pods/
+macos/build/
+ios/build/
+windows/build/
+linux/build/
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
+
+# === 🔥 Firebase & Secrets ===
+.env
+firebase_options.dart
+google-services.json
+GoogleService-Info.plist
+
+# === 💻 Editor/IDE Stuff ===
+.idea/
+.vscode/
+*.iml
+*.log
+.DS_Store
